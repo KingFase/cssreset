@@ -1,4 +1,4 @@
-reset
+CSS Reset
 =====
 
 CSS Reset
